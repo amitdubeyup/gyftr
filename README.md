@@ -1,41 +1,76 @@
-# GYFTR
+# gyftr
 
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-## Live URL: https://gyftr-app.herokuapp.com/
+Assignment for the job!
 
+## 🚀 Tech Stack
 
-## Quick Start
+- Express.js
+- MongoDB
 
-  Clone the repository:
+## ✨ Features
 
-```bash
-$ git clone https://github.com/amitdubey8888/gyftr
-```
+- Modern and scalable architecture
+- Database integration
+- RESTful API endpoints
 
-  Goto project directory:
-
-```bash
-$ cd gyftr
-```
-
-  Install dependencies:
+## 📦 Installation
 
 ```bash
-$ npm install
+# Clone the repository
+git clone https://github.com/amitdubeyup/gyftr.git
+cd gyftr
+
+# Install dependencies
+npm install
 ```
 
-  Start the app:
+## ⚙️ Configuration
+
+Create a `.env` file in the root directory:
 
 ```bash
-$ npm start
+cp .env.example .env
 ```
 
-  View the app at: http://localhost:3000
+Update the `.env` file with your configuration values.
 
-## People
+## 🚀 Usage
 
-The lead maintainer is [Amit Dubey](https://github.com/amitdubey8888)
+```bash
+# Production mode
+npm start
 
-## License
+# Run tests
+npm test
+```
 
-  [MIT](LICENSE)
+## 📜 Available Scripts
+
+- `npm run start` - node app.js
+- `npm run test` - App is working fine!
+
+## 📁 Project Structure
+
+```
+gyftr/
+├── public/
+├── package.json
+├── .env.example
+├── README.md
+```
+
+## 🤝 Contributing
+
+Contributions are welcome! Please feel free to submit a Pull Request.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 👤 Author
+
+**Amit Dubey**
+
+- GitHub: [@amitdubeyup](https://github.com/amitdubeyup)
