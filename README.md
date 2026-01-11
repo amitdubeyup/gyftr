@@ -1,4 +1,4 @@
-# gyftr
+# gyftr-integration-service
 
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
@@ -19,8 +19,8 @@ Assignment for the job!
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/gyftr.git
-cd gyftr
+git clone https://github.com/amitdubeyup/gyftr-integration-service.git
+cd gyftr-integration-service
 
 # Install dependencies
 npm install
@@ -54,7 +54,7 @@ npm test
 ## 📁 Project Structure
 
 ```
-gyftr/
+gyftr-integration-service/
 ├── public/
 ├── package.json
 ├── .env.example
